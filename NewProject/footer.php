@@ -1,8 +1,8 @@
-<div id='footer'>
+	<div id='footer'>
 
-	<span> <center> All content © Forum Syd unless otherwise noted.</center></span>
+		<span> <center> All content © Forum Syd unless otherwise noted.</center></span>
 
-</div><!-- /footer -->
+	</div><!-- /footer -->
 
 </div><!-- /main-->
 
